@@ -1,5 +1,5 @@
 # CoreDemo
 BlogSite
-Don't Forget Chane <connectionStrings>
+Don't Forget Change <connectionStrings>
   
   
